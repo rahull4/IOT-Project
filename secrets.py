@@ -1,4 +1,4 @@
 secrets = {
-   'ssid' : '',
-   'password' : '',
+   'ssid' : '',       # Write wifi SSID
+   'password' : '',   # Write wifi password
    }
